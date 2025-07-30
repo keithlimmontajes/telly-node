@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "telly-plus-test-2025",
+  "private_key_id": "7153e79274aee008ca88850a68c0bcb35c9ade6c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTsMorDmoDQCSm\nl/oNxvuiNg2LBrhJohqSquegfhQSfSyYl+oYSyWcQs56J3wTq2vPfZl+s5nLMgh1\nEYZokv9ZP6rMxWeOPG3JV1UkVPH4DTjgddfThjAo5SnKEk6SsgcXJU23EmVl+y4U\nDAphPa2FFq8iVWHmUavAmy7O+WicxphHhm+3F/fqmE33WKf5BthPWHLkJifHFR0c\n2PFDBQ+Xm/C+24aZ5G1821Q5kyc1w2l9NT8McR0zvP2ew+a0GSkVSivH8I1yh8pA\njLHJE8yqScsUlpQGifvU9/xPK043qz0f1w9FQPlozfPPlpa4C67u3+si4ID4C8mx\nJF211gllAgMBAAECggEAAMLI0wFw7xtK05vCSsUIPJFYhaUygjLkZweN0SqJbu7B\ne14aiMyVhhyGTUoKKQqlA/CVe9xOhFqZxbXyzBwxCD0PjQNICoFlgpCbeIfBCz87\nCXytTKa3ncYDccM6Mz+L6s0dnKii08iR1xgTodPJEp1M/mDsAnvyuWnijfrkoaGA\nfSLBHHFXDcmL3n4SjhqoISPpIZBSzSajSuGA4L/VVEEp7oHMqR1D08CNK0z4bdJv\nWLB70llL//hT5rDoeOM9hMv6Ly69bZ88vkhzurWhbVAewJY8wSjgp1iTtFzNjoiZ\ntphNfhR1/GLjIaT6wWP7AxWEFKioEmib/E2ZV9/aRwKBgQD3QA+phlEgXhEZ/DNU\n5b6EkrmPEOgxkXA4GKfLZZ6UqSjfNRnuhsov2SCw9AFsuQp0P5zJV3p5pNfpP83p\n4ePJQ5yFig57+BaiZVixutbl0hleUPpDRGr7W/+nK32zdgjaodTqSAtaD/lI9wb9\n9FpP6ivcj7VwlQlwxE7AHzEj9wKBgQDbLpRUDnftLZT4KoQcMWLb7rJZSfEjj/oD\nK4mpqmE/q6b/3j3hPPXdiX2bqkvMGejhesR+hOul23G7xzYO0KrAiK1BICSXyAfa\nShkKhijOzhG7fYZWNU3Gue0O6ozde6+a878d5I1KzvKpkJ3+U9mXhkmAZpOHB8dU\nMZfUb4fugwKBgG2NFuN4Pg3nYBBxbJUbTrUTBeDcDuWXmW9hjUdT+VXJNfDgaGMF\nmiRlQlTlaJQx0O39GY0kk4G+hmQ0/xm4GuOcb4fDyfMn02+VFB17uagO1Wqy2pBf\nij9hXf9GB+YyUG3+8oXz8gOvvDaWLaTsVe++xDxv+GavwoUSlgoOSAm1AoGBALc5\nE/PEeIpDfXGLEQ8EVdDmlB7CChuhYu09ewHjFRKFqr/gB7h/HkUIh4EWdfBzhFLh\nLttYwCjQ7h18JXtzAhqa5sI3XX+oTrAzGwXKKtjeOMKT5zWvr4m9qSa7+e+4Uo7k\nzdHuWhK8Nux6oSiW7aGWN2Fn3lGVthJytqp2ZZqDAoGBAPWaOBwgiOdPEQ530eF9\nMDhSGjXSltaWT4gKOOMufTEHU6iNUqUAy4ziQn3xKunVnq/2YZtZM1Gne491WbPZ\nMm3KNy8FrNn5ZULIVVwyuDWbx1UeW6SJnDZl+oNqxs2M3Sm5t20+V1JPi69J/Y5l\nV+g1oYxUThmOhDa4Yjlo7xgB\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@telly-plus-test-2025.iam.gserviceaccount.com",
+  "client_id": "109388713567144888242",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40telly-plus-test-2025.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
